@@ -9,7 +9,7 @@
 | Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     | https://mickaelfp.github.io/Platformer/ |
 | Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | https://lmazenc34070.github.io/Platformer/ |
 | Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | https://alexis098.github.io/Platformer/ |
-| Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             ||
+| Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             | [non fonctionnel](https://caesardeville.github.io/Platformer/)|
 | Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | https://loulaty.github.io/platformer/platformer-main/ |
 | Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)             ||
 | Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     ||
