@@ -14,7 +14,7 @@
 | Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)             ||
 | Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     ||
 | Andréa              | MICHEL           | [ilyord](https://github.com/ilyord)                           | https://ilyord.github.io/platformer/ |
-| Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       ||
+| Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | https://douillet.github.io/platformer-main/ |
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | https://dennelbilal.github.io/Platformer/ |
 | Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               ||
 | Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     ||
