@@ -9,20 +9,20 @@
 | Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     | https://mickaelfp.github.io/Platformer/ |
 | Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | https://lmazenc34070.github.io/Platformer/ |
 | Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | https://alexis098.github.io/Platformer/ |
-| Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             | [non fonctionnel](https://caesardeville.github.io/Platformer/)|
+| Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             | [Page blanche](https://caesardeville.github.io/Platformer/)|
 | Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | https://loulaty.github.io/platformer/platformer-main/ |
-| Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)             ||
-| Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     ||
+| Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)             | Pas de lien |
+| Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | Pas de lien |
 | Andréa              | MICHEL           | [ilyord](https://github.com/ilyord)                           | https://ilyord.github.io/platformer/ |
 | Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | https://douillet.github.io/platformer-main/ |
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | https://dennelbilal.github.io/Platformer/ |
-| Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               ||
-| Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     ||
+| Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | [page blanche](https://corentin1998.github.io/Platformer/index.html) |
+| Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     | Pas de lien|
 | Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | https://monsieur-jonas.github.io/Platformer/ |
 | Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | https://maxime-balansard.github.io/platformer/ |
-| Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     ||
-| Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   ||
-| David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   ||
+| Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | Pas de lien |
+| Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   | [Page blanche](https://yvain16-69.github.io/Platformer/) |
+| David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   | Pas de lien |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
