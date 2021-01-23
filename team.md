@@ -17,7 +17,7 @@
 | Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | https://douillet.github.io/platformer-main/ |
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | https://dennelbilal.github.io/Platformer/ |
 | Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | [Page blanche](https://corentin1998.github.io/Platformer/index.html) |
-| Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     | Pas de lien|
+| Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     | https://bassounet.github.io/Plaftormer/|
 | Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | https://monsieur-jonas.github.io/Platformer/ |
 | Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | https://maxime-balansard.github.io/platformer/ |
 | Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | Pas de lien |
