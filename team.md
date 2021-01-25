@@ -11,8 +11,8 @@
 | Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | https://alexis098.github.io/Platformer/ |
 | Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             | [Page blanche](https://caesardeville.github.io/Platformer/)|
 | Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | https://loulaty.github.io/platformer/platformer-main/ |
-| Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)             | Pas de lien |
-| Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | Pas de lien |
+| Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)             | [Page blanche](https://quentin-paris.github.io/platformer/) |
+| Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | https://anatole-p.github.io/platformer/ |
 | Andréa              | MICHEL           | [ilyord](https://github.com/ilyord)                           | https://ilyord.github.io/platformer/ |
 | Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | https://douillet.github.io/platformer-main/ |
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | https://dennelbilal.github.io/Platformer/ |
@@ -20,7 +20,7 @@
 | Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     | https://bassounet.github.io/Plaftormer/|
 | Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | https://monsieur-jonas.github.io/Platformer/ |
 | Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | https://maxime-balansard.github.io/platformer/ |
-| Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | Pas de lien |
+| Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | [Page blanche](https://sparts301.github.io/Platformer/) |
 | Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   | [Page blanche](https://yvain16-69.github.io/Platformer/) |
 | David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   | [Page blanche](https://DavidBorie.github.io/Platformer/) |
 | ...       | ...         |   ... |
