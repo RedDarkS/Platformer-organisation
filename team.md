@@ -7,7 +7,7 @@
 | Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         | https://kpatain.github.io/platformer/ |
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               | https://SpaceGarbage.github.io/Platformer/jeu.html |
 | Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     | https://mickaelfp.github.io/Platformer/ |
-| Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | https://lmazenc34070.github.io/Platormer-Phaser/
+| Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | https://lmazenc34070.github.io/platformer2/
 | Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | https://alexis098.github.io/Platformer/ |
 | Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             | https://caesardeville.github.io/Platformer/|
 | Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | https://loulaty.github.io/platformer/platformer-main/ |
