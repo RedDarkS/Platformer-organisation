@@ -3,7 +3,7 @@
 | Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           | https://brieux.github.io/plate-formmeur/index.html |
 | Romain              | COUTELLIER       | [RedDarkS](https://github.com/RedDarkS)                       | https://RedDarkS.github.io/platformer/ |
 | Vincent             | GAUTHIER         | [VinekNet](https://github.com/VinekNet)                       | https://vineknet.github.io/platformer/ |
-| Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           | Y a pas soûle |
+| Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           | Y a pas, soûle ! |
 | Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         | https://kpatain.github.io/platformer/ |
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               | https://spacegarbage.github.io/PlatformerV1/ |
 | Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     | https://mickaelfp.github.io/Platformer/ |
