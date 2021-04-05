@@ -8,7 +8,7 @@
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               | https://spacegarbage.github.io/PlatformerV1/ |
 | Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     | https://mickaelfp.github.io/platformer-1/ |
 | Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | https://lmazenc34070.github.io/platformer2/
-| Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | https://alexis098.github.io/Platformer/ |
+| Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | https://alexis098.github.io/Platformer_S2/ |
 | Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             | https://caesardeville.github.io/Platformer/|
 | Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | https://loulaty.github.io/platformer/platformer-main/ |
 | Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)             | https://quentin-paris.github.io/platformer/ |
