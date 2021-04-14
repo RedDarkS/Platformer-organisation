@@ -6,7 +6,7 @@
 | Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           | https://hns707.github.io/platformer_v3/ |
 | Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         | https://kpatain.github.io/TiledPlatformer/ |
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               | https://spacegarbage.github.io/PlatformerV1/ |
-| Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     | https://mickaelfp.github.io/platformer-1/ |
+| Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     | https://mickaelfp.github.io/ProjetSemestriel2_Platformer_TheDeadKing-sRising/ |
 | Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | https://lmazenc34070.github.io/platformer2/
 | Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | https://alexis098.github.io/Platformer_S2/ |
 | Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             | https://caesardeville.github.io/Platformer/|
