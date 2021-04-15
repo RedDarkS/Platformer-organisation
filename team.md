@@ -10,7 +10,7 @@
 | Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | [Experience Resurrection](https://lmazenc34070.github.io/platformer2/) |
 | Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | [The Way of the Soul](https://alexis098.github.io/Platformer_S2/) |
 | Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             | [Silence Mecanique](https://caesardeville.github.io/Platformer/) |
-| Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | [Mother](https://loulaty.github.io/platformer/platformer-main/) |
+| Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | [Mother](https://loulaty.github.io/platformer2/platformer-main/) |
 | Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)             | [SkyLand Run](https://quentin-paris.github.io/platformer/) |
 | Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | [Montason Experiments](https://anatole-p.github.io/platformer/) |
 | Andréa              | MICHEL           | [ilyord](https://github.com/ilyord)                           | [Sunless letter](https://ilyord.github.io/Plateformer_Perso/) |
