@@ -1,4 +1,4 @@
-| Prénom              | NOM              | GitHub                                                        | Pong                                        |
+| Prénom              | NOM              | GitHub                                                        | Platformer                                        |
 | ------------------- |----------------  | ------------------------------------------------------------- | --------------------------------------------------------- |
 | Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           | https://brieux.github.io/plate-formmeur/index.html |
 | Romain              | COUTELLIER       | [RedDarkS](https://github.com/RedDarkS)                       | https://RedDarkS.github.io/platformer/ |
