@@ -12,7 +12,7 @@
 | Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             | [Silence Mecanique](https://caesardeville.github.io/Platformer/) |
 | Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | [Mother](https://loulaty.github.io/platformer2/platformer-main/) |
 | Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)             | [SkyLand Run](https://quentin-paris.github.io/platformer/) |
-| Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | [Montason Experiments](https://anatole-p.github.io/platformer/) |
+| Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | [Montason Experiments](https://anatole-p.github.io/PlatformerV2/) |
 | Andréa              | MICHEL           | [ilyord](https://github.com/ilyord)                           | [Sunless letter](https://ilyord.github.io/Plateformer_Perso/) |
 | Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | [Warden of Wetcheypalie](https://douillet.github.io/platformer-main/) |
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | [Eirian Byo](https://dennelbilal.github.io/Platformer/) |
