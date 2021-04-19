@@ -17,9 +17,9 @@
 | Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | [Warden of Wetcheypalie](https://douillet.github.io/platformer-main/) |
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | [Eirian Byo](https://dennelbilal.github.io/Platformer/) |
 | Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | [Hunted Birds](https://corentin1998.github.io/projet-plateformer/) |
-| Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     | [Pugno](https://bassounet.github.io/Plaftormer/) |
+| Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     | [Pugno](https://bassounet.github.io/pugno/) |
 | Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | [MkBoratory](https://monsieur-jonas.github.io/Platformer/) |
-| Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | [The Door](https://maxime-balansard.github.io/Platformer/) |
+| Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | [The Door](https://maxime-balansard.github.io/Alpha01/) |
 | Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | [Welcome to the Jungle](https://sparts301.github.io/Platformer/) |
 | Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   | [Vibe](https://yvain16-69.github.io/Platformer-2/) |
 | David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   | [Spoing](https://DavidBorie.github.io/Platformer/) |
