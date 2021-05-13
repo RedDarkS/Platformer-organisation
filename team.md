@@ -22,7 +22,7 @@
 | Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | [The Door](https://maxime-balansard.github.io/Alpha01/) |
 | Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | [Welcome to the Jungle](https://sparts301.github.io/Platformer/) |
 | Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   | [Vibe](https://yvain16-69.github.io/Platformer-2/) |
-| David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   | [Spoing](https://DavidBorie.github.io/Platformer/) |
+| David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   | [Spoing](https://davidborie.github.io/Spoing/ ) |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
