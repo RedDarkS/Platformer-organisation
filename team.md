@@ -19,7 +19,7 @@
 | Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | [Hunted Birds](https://corentin1998.github.io/PlatformerSemestre/) |
 | Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     | [Pugno](https://bassounet.github.io/pugno/) |
 | Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | [MkBoratory](https://monsieur-jonas.github.io/Platformer/) |
-| Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | [The Door](https://maxime-balansard.github.io/Alpha01/) |
+| Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | [The Door](https://maxime-balansard.github.io/Alpha_02/) |
 | Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | [Welcome to the Jungle](https://sparts301.github.io/Platformer/) |
 | Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   | [Vibe](https://yvain16-69.github.io/Platformer-2/) |
 | David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   | [Spoing](https://davidborie.github.io/Spoing/ ) |
