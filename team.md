@@ -7,7 +7,7 @@
 | Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         | [Hey Beam](https://kpatain.github.io/TiledPlatformer/) |
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               | [Orpis Corporeus](https://spacegarbage.github.io/PlatformerV1/) |
 | Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     | [The Dead King's Rising](https://mickaelfp.github.io/ProjetSemestriel2_Platformer_TheDeadKing-sRising/) |
-| Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | [Experience Resurrection](https://lmazenc34070.github.io/Projet_Semestre2/) |
+| Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | [Experience Memoriae](https://lmazenc34070.github.io/Projet_Semestre2/)|
 | Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | [The Way of the Soul](https://alexis098.github.io/Platformer_S2/) |
 | Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             | [Silence Mecanique](https://caesardeville.github.io/Platformer/) |
 | Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | [Mother](https://loulaty.github.io/platformer2/platformer-main/) |
