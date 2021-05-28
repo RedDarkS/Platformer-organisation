@@ -1,6 +1,6 @@
 | Prénom              | NOM              | GitHub                                                        | Platformer                                        |
 | ------------------- |----------------  | ------------------------------------------------------------- | --------------------------------------------------------- |
-| Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           | [Les Aventures de Lardon](https://brieux.github.io/plate-formmeur/index.html) |
+| Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           | [Les Aventures de Lardon](https://brieux.github.io/Lardon-s-Aventure/) |
 | Romain              | COUTELLIER       | [RedDarkS](https://github.com/RedDarkS)                       | [Angara Liberation](https://RedDarkS.github.io/platformer/) |
 | Vincent             | GAUTHIER         | [VinekNet](https://github.com/VinekNet)                       | [Rocker](https://vineknet.github.io/rocker/) |
 | Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           | [Dream Shades](https://hns707.github.io/platformer_v3/) |
