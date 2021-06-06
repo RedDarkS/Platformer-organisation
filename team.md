@@ -3,7 +3,7 @@
 | Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           | [Les Aventures de Lardon](https://brieux.github.io/Lardon-s-Aventure/) |
 | Romain              | COUTELLIER       | [RedDarkS](https://github.com/RedDarkS)                       | [Angara Liberation](https://RedDarkS.github.io/platformer/) |
 | Vincent             | GAUTHIER         | [VinekNet](https://github.com/VinekNet)                       | [Rocker](https://vineknet.github.io/rocker/) |
-| Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           | [Dream Shades](https://hns707.github.io/platformer_v3/) |
+| Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           | [Dream Shades](https://hns707.github.io/DreamShades_Main/) |
 | Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         | [Hey Beam](https://kpatain.github.io/TiledPlatformer/) |
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               | [Orpis Corporeus](https://spacegarbage.github.io/PlatformerV1/) |
 | Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     | [The Dead King's Rising](https://mickaelfp.github.io/ProjetSemestriel2_Platformer_TheDeadKing-sRising/) |
