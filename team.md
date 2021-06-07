@@ -9,7 +9,7 @@
 | [Mickaël](https://github.com/MickaelFP)             | FLAESCH-PERREAU  | [The Dead King Rising](https://mickaelfp.itch.io/the-dead-king-rising)                     | [The Dead King's Rising](https://mickaelfp.github.io/ProjetSemestriel2_Platformer_TheDeadKing-sRising/) |
 | [Lucas](https://github.com/Lmazenc34070)               | MAZENC           | [Experience Memoriae](https://stingart.itch.io/projet)               | [Experience Memoriae](https://lmazenc34070.github.io/Experience---Memoriae/)|
 | [Alexis](https://github.com/Alexis098)              | HENG             | [The Way of the Soul](https://alexhe.itch.io/the-way-of-the-soul)                     | [The Way of the Soul](https://alexis098.github.io/Platformer_S2/) |
-| [Quentin](https://github.com/CaesarDeVille)             | JEUNE-LAPANOUZE  | [En attente]()             | [Silence Mecanique](https://caesardeville.github.io/Platformer/) |
+| [Quentin](https://github.com/CaesarDeVille)             | JEUNE-LAPANOUZE  | [Silence Mecanique](https://caesardeville.itch.io/silence-mecanique)             | [Silence Mecanique](https://caesardeville.github.io/Platformer/) |
 | [Anaïs](https://github.com/Loulaty)               | BISCARAS         | [Mother](https://loulaty.itch.io/mother)                         | [Mother](https://loulaty.github.io/platformer2/platformer-main/) |
 | [Quentin](https://github.com/Quentin-Paris)             | PARIS            | RAS             | [SkyLand Run](https://quentin-paris.github.io/platformer/) |
 | [Anatole](https://github.com/anatole-P)             | PAGNUCCO         | RAS                     | [Montason Experiments](https://anatole-p.github.io/PlatformerV2/) |
