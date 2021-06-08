@@ -21,7 +21,7 @@
 | [Jonas](https://github.com/monsieur-jonas)               | CHAMPOIRAL       | [Experiences](https://falty.itch.io/experiences)           | [MkBoratory](https://monsieur-jonas.github.io/Platformer/) |
 | [Maxime](https://github.com/Maxime-Balansard)              | BALANSARD        | [The Door](https://maximebalansard.itch.io/the-door)       | [The Door](https://maxime-balansard.github.io/Alpha_02/) |
 | [Maxime](https://github.com/Sparts301)              | FRERE            | RAS                     | [Welcome to the Jungle](https://sparts301.github.io/Platformer/) |
-| [Yvain](https://github.com/Yvain16-69)               | DI COSTANZO      | [En attente]()                   | [Vibe](https://yvain16-69.github.io/PlatformerY20/) |
+| [Yvain](https://github.com/Yvain16-69)               | DI COSTANZO      | [Vibe](https://yvain1669.itch.io/vibe)                   | [Vibe](https://yvain16-69.github.io/PlatformerY20/) |
 | [David](https://github.com/DavidBorie)               | BORIE            | [Spoing](https://davidborie.itch.io/spoing)                   | [Spoing](https://davidborie.github.io/Spoing/ ) |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
