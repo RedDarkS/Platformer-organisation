@@ -15,9 +15,9 @@
 | [Anatole](https://github.com/anatole-P)             | PAGNUCCO         | RAS                     | [Montason Experiments](https://anatole-p.github.io/PlatformerV2/) |
 | [Andréa](https://github.com/ilyord)              | MICHEL           | [Sunless Letter](https://ilyord.itch.io/sunless-letter)                           | [Sunless letter](https://ilyord.github.io/Plateformer_Perso/) |
 | [Antoine](https://github.com/Douillet)             | DOUILLET         | [Warden of Wetcheypalie](https://douillet.itch.io/warden-of-wetcheypalie)                       | [Warden of Wetcheypalie](https://douillet.github.io/platformer-main/) |
-| [Bilal](https://github.com/dennelbilal)               | DENNEL           | [En attente]()                 | [Eirian Byo](https://dennelbilal.github.io/Platformer/) |
+| [Bilal](https://github.com/dennelbilal)               | DENNEL           | RAS                 | [Eirian Byo](https://dennelbilal.github.io/Platformer/) |
 | [Corentin](https://github.com/Corentin1998)            | HABIB            | [Hunted Birds](https://corentinhabib.itch.io/hunted-birds)               | [Hunted Birds](https://corentin1998.github.io/PlatformerSemestreFinal/) |
-| [Grégoire](https://github.com/Bassounet)            | FONTANELLI       | [En attente]()                     | [Pugno](https://bassounet.github.io/pugno/) |
+| [Grégoire](https://github.com/Bassounet)            | FONTANELLI       | RAS                     | [Pugno](https://bassounet.github.io/pugno/) |
 | [Jonas](https://github.com/monsieur-jonas)               | CHAMPOIRAL       | [Experiences](https://falty.itch.io/experiences)           | [MkBoratory](https://monsieur-jonas.github.io/Platformer/) |
 | [Maxime](https://github.com/Maxime-Balansard)              | BALANSARD        | [The Door](https://maximebalansard.itch.io/the-door)       | [The Door](https://maxime-balansard.github.io/Alpha_02/) |
 | [Maxime](https://github.com/Sparts301)              | FRERE            | RAS                     | [Welcome to the Jungle](https://sparts301.github.io/Platformer/) |
